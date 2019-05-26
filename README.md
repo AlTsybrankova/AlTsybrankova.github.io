@@ -5,3 +5,4 @@ Screenshot 1
 ![Screenshot_7](https://user-images.githubusercontent.com/50791385/58378142-26d82700-7f97-11e9-9a06-cc15dc98b649.png)
 Screenshot 2
 https://github.com/AlTsybrankova/AlTsybrankova.github.io/blob/master/printscr%202.jpg?raw=true
+https://raw.githubusercontent.com/AlTsybrankova/AlTsybrankova.github.io/master/printscr%202.jpg
