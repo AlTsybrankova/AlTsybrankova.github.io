@@ -6,4 +6,4 @@ Screenshot 1
 Screenshot 2
 ![screenshot 2](https://raw.githubusercontent.com/AlTsybrankova/AlTsybrankova.github.io/master/printscr%202.jpg)
 ![my page](https://github.com/AlTsybrankova/AlTsybrankova.github.io/blob/master/index.html)
-![dz2+3](https://github.com/AlTsybrankova/AlTsybrankova.github.io/tree/master/dz2)
+![dz2+3]
