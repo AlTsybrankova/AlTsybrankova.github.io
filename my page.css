@@ -1,36 +1,58 @@
 H1 {
-    color: #000080;
-    font-size: 200%;
-    font-family: Arial, Verdana, sans-serif;
+    color:  rgb(206, 44, 29);
+    font-size: 150%;
+    font-family: Vesna;
+    src: url('fonts/Vesna.TTF');
     text-align: center;
-  }
-  P {
-    padding-left: 20px;
-  }   
-  H2 {
-    color: #000080;
+    padding-left: 65px;    
+      }
+    H2 {
+    color: #1a0e0e;
     font-size: 120%;
-    font-family: Arial, Verdana, sans-serif;
     text-align: center;
-  }
-  P {
-    padding-left: 50px;
-  }   
-  p {
+      }
+    H2 { 
+      font-family: Vesna;
+      src: url('fonts/Vesna.TTF');
+    }
+    p {
     color: #000000;
     font-size: 100%;
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Roboto;
+    src: url('fonts/Roboto.TTF');
     text-align: left;
   }
   P {
-    padding-left: 20px;
+    padding-left: 50px;
+    padding-right: 60px;
   }   
   dl {
     color: #000000;
     font-size: 100%;
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Roboto;
+    src: url('fonts/Roboto.TTF');
     text-align: left;
+    padding-left: 50px;
+    padding-right: 60px;
   }
-  P {
-    padding-left: 20px;
-  }   
+  ul{color: #000000;
+    font-size: 100%;
+    font-family: Roboto;
+    src: url('fonts/Roboto.TTF');
+    text-align: left;}
+    padding-left: 50px;
+    padding-right: 60px;
+  a {padding-left: 100px;
+   }
+  a {color: #000;}
+  a {text-decoration: none;}
+  a:hover {text-decoration: underline;}
+  p.first {
+    text-indent: 3em;
+  }
+  h3 {
+    color: rgb(206, 44, 29);
+    font-size: 120%;
+    font-family Arial, Verdana, sans-serif;
+    }
+  b.second {color: rgb(129, 35, 35);}
