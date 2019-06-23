@@ -1,25 +1,35 @@
+body {font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
 H1 {
-    color:  rgb(206, 44, 29);
-    font-size: 150%;
-    font-family: Vesna;
-    src: url('fonts/Vesna.TTF');
+    color:  rgb(233, 115, 36);
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
     text-align: center;
     padding-left: 65px;    
       }
     H2 {
     color: #1a0e0e;
-    font-size: 120%;
+    font-size: 24px;
     text-align: center;
-      }
-    H2 { 
-      font-family: Vesna;
-      src: url('fonts/Vesna.TTF');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
     }
+    h3 {
+      color:#000000;
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif; 
+      }
+    .h1
+    {
+      font-weight:400;
+    }  
     p {
     color: #000000;
-    font-size: 100%;
-    font-family: Roboto;
-    src: url('fonts/Roboto.TTF');
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     text-align: left;
   }
   P {
@@ -28,31 +38,39 @@ H1 {
   }   
   dl {
     color: #000000;
-    font-size: 100%;
-    font-family: Roboto;
-    src: url('fonts/Roboto.TTF');
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
     text-align: left;
     padding-left: 50px;
     padding-right: 60px;
   }
   ul{color: #000000;
-    font-size: 100%;
-    font-family: Roboto;
-    src: url('fonts/Roboto.TTF');
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
     text-align: left;}
-    padding-left: 50px;
-    padding-right: 60px;
+  ul{padding-left: 50px;
+    padding-right: 60px;}
   a {padding-left: 100px;
    }
-  a {color: #000;}
+  a {color:rgb(233, 115, 36);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+  }
   a {text-decoration: none;}
   a:hover {text-decoration: underline;}
   p.first {
     text-indent: 3em;
   }
-  h3 {
-    color: rgb(206, 44, 29);
-    font-size: 120%;
-    font-family Arial, Verdana, sans-serif;
-    }
-  b.second {color: rgb(129, 35, 35);}
+  b.third { font-weight: 800;
+  }
+
+  .h2 {font-size: 24px;  
+      font-weight: 900;
+  }
+  i.zero {font-family: 'Roboto', sans-serif;
+  font-weight: 300  
+  }
+  b.h2 {
+    font-size: 24px;
+  }
