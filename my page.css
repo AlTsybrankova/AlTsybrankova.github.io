@@ -1,8 +1,17 @@
 body {font-family: 'Montserrat', sans-serif;
   font-family: 'Open Sans', sans-serif;
+  background-color: #e2e3e4;
+}
+.wrapper{
+  width: 960px;
+  height: auto;
+  padding: 1px;
+  border: 5px solid saddlebrown;
+  margin: 15px auto;
+  background-image: url("../images/ava7patterns_pattern_1807.png");
 }
 H1 {
-    color:  rgb(233, 115, 36);
+    color:  rgb(206, 135, 87);
     font-size: 50px;
     font-family: 'Lobster', cursive;
     text-align: center;
@@ -74,3 +83,44 @@ H1 {
   b.h2 {
     font-size: 24px;
   }
+  .images{
+    padding: left 5px right 5px top 5px bottom 5px;
+    border:5px solid none;
+    margin:5px auto;
+    width:565px;
+    height:465px;
+    background-image: url("../images/pipin.png");
+    outline:5px saddlebrown;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: 550px 450px;
+    background-color:saddlebrown;
+    }
+    .images2{
+      padding: left 5px right 5px top 5px bottom 5px;
+      border:5px solid none;
+      margin:5px auto;
+      width:355px;
+      height:465px;
+      background-image: url("../images/aragorn.png");
+      background-repeat: no-repeat;
+      background-position: center ;
+      background-size: 340px 450px;
+      background-color:saddlebrown;
+      }
+      .images3{
+      padding: left 5px right 5px top 5px bottom 5px;
+      border:5px solid none;
+      margin:5px auto;
+      width:505px;
+      height:465px;
+      background-image: url("../images/merri.png");
+      outline:5px saddlebrown;
+      background-repeat: no-repeat;
+      background-position: center ;
+      background-size: 490px 450px;
+      background-color:saddlebrown;
+      }
+      
+   
+  
