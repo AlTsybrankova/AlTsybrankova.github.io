@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #555;
+}
+.wrap{display:flex;
+flex-direction: row;
+flex-grow:1;
+align-content: stretch;
+}
+
+.card{
+    width: 25%;
+    height: 100%;
+    padding: 10px;
+    outline: 1px solid red;
+    overflow: auto;
+    margin: 10px auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column; 
+}
+.card1{
+    width:25%;
+    height: auto;
+    padding: 10px;
+    outline: 1px solid red;
+    overflow: auto;
+    margin: 10px auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+.card2{
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    outline: 1px solid red;
+    overflow: auto;
+    margin: 10px auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+.card3{
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    outline: 1px solid red;
+    overflow: auto;
+    margin: 10px auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.inner__img img{
+    width: 100%;
+    outline: 1px solid blue;
+}
+
+.inner__img{
+    outline: 1px solid green;
+    flex-grow: 1;
+    align-self: center;
+    padding-right:15%;
+    padding-left: 15%; 
+    padding-top: 5%; 
+    }
+
+.inner__text{
+    /* width: 65%; */
+    flex-grow: 2;
+    align-self: center;
+    margin-left: 25px;
+}
+
+.inner__text h2{
+    text-align: center;
+}
+.inner__text input{
+    text-align: auto;
+    margin-left:25%; 
+
+}
