@@ -20,7 +20,7 @@ Screenshot 2
     <div class="wrap">
         <div class="card">
             <div class="inner__img">
-                <img src="img/phone.jpg" alt="">
+                <img src="dz7/img/phone.jpg" alt="">
             </div>
             <div class="inner__text">
                 <h2>Наушники Beats</h2>
