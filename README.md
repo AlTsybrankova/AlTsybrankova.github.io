@@ -32,7 +32,7 @@ Screenshot 2
         </div>
         <div class="card1">
             <div class="inner__img">
-                <img src="img/phone.jpg" alt="">
+                <img src="dz7/img/phone.jpg" alt="">
             </div>
             <div class="inner__text">
                 <h2>Наушники Beats</h2>
@@ -44,7 +44,7 @@ Screenshot 2
         </div>
         <div class="card2">
             <div class="inner__img">
-                <img src="img/phone.jpg" alt="">
+                <img src="dz7/img/phone.jpg" alt="">
             </div>
             <div class="inner__text">
                 <h2>Наушники Beats</h2>
